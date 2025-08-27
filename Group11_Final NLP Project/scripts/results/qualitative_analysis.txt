@@ -1,0 +1,60 @@
+Example 1:
+Q: In what country is Normandy located?
+A (Predicted): [No prediction]
+A (Ground Truth): ['France', 'France', 'France', 'France']
+Context: The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse ("Norman" comes from "Norseman") raiders and pirates from Denmark, Iceland and Norway who, under their...
+================================================================================
+Example 2:
+Q: When were the Normans in Normandy?
+A (Predicted): [No prediction]
+A (Ground Truth): ['10th and 11th centuries', 'in the 10th and 11th centuries', '10th and 11th centuries', '10th and 11th centuries']
+Context: The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse ("Norman" comes from "Norseman") raiders and pirates from Denmark, Iceland and Norway who, under their...
+================================================================================
+Example 3:
+Q: From which countries did the Norse originate?
+A (Predicted): [No prediction]
+A (Ground Truth): ['Denmark, Iceland and Norway', 'Denmark, Iceland and Norway', 'Denmark, Iceland and Norway', 'Denmark, Iceland and Norway']
+Context: The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse ("Norman" comes from "Norseman") raiders and pirates from Denmark, Iceland and Norway who, under their...
+================================================================================
+Example 4:
+Q: Who was the Norse leader?
+A (Predicted): [No prediction]
+A (Ground Truth): ['Rollo', 'Rollo', 'Rollo', 'Rollo']
+Context: The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse ("Norman" comes from "Norseman") raiders and pirates from Denmark, Iceland and Norway who, under their...
+================================================================================
+Example 5:
+Q: What century did the Normans first gain their separate identity?
+A (Predicted): [No prediction]
+A (Ground Truth): ['10th century', 'the first half of the 10th century', '10th', '10th']
+Context: The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse ("Norman" comes from "Norseman") raiders and pirates from Denmark, Iceland and Norway who, under their...
+================================================================================
+Example 6:
+Q: Who gave their name to Normandy in the 1000's and 1100's
+A (Predicted): [No prediction]
+A (Ground Truth): []
+Context: The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse ("Norman" comes from "Norseman") raiders and pirates from Denmark, Iceland and Norway who, under their...
+================================================================================
+Example 7:
+Q: What is France a region of?
+A (Predicted): [No prediction]
+A (Ground Truth): []
+Context: The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse ("Norman" comes from "Norseman") raiders and pirates from Denmark, Iceland and Norway who, under their...
+================================================================================
+Example 8:
+Q: Who did King Charles III swear fealty to?
+A (Predicted): [No prediction]
+A (Ground Truth): []
+Context: The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse ("Norman" comes from "Norseman") raiders and pirates from Denmark, Iceland and Norway who, under their...
+================================================================================
+Example 9:
+Q: When did the Frankish identity emerge?
+A (Predicted): [No prediction]
+A (Ground Truth): []
+Context: The Normans (Norman: Nourmands; French: Normands; Latin: Normanni) were the people who in the 10th and 11th centuries gave their name to Normandy, a region in France. They were descended from Norse ("Norman" comes from "Norseman") raiders and pirates from Denmark, Iceland and Norway who, under their...
+================================================================================
+Example 10:
+Q: Who was the duke in the battle of Hastings?
+A (Predicted): [No prediction]
+A (Ground Truth): ['William the Conqueror', 'William the Conqueror', 'William the Conqueror']
+Context: The Norman dynasty had a major political, cultural and military impact on medieval Europe and even the Near East. The Normans were famed for their martial spirit and eventually for their Christian piety, becoming exponents of the Catholic orthodoxy into which they assimilated. They adopted the Gallo...
+================================================================================

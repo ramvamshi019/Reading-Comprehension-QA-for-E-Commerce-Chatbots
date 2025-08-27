@@ -1,0 +1,55 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+.venv/
+.env
+*.egg-info/
+.eggs/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert
+
+# Data / Models (large files)
+*.safetensors
+*.bin
+*.pt
+*.h5
+*.ckpt
+*.tar.gz
+*.zip
+*.gz
+*.csv
+*.tsv
+*.jsonl
+
+# HuggingFace / Transformers cache
+cache/
+models/
+datasets/
+
+# Results / Outputs
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+*.mp4
+*.wav
+*.safetensors
+*.bin
+*.pt
+*.h5
+*.tar.gz
+*.zip
+
+# VS Code / IDE
+.vscode/
+.idea/
